@@ -3,4 +3,35 @@ body {
 }
 h1 {
   text-align: center;
+  color: white;
+}
+h2 {
+  text-align: left;
+}
+table {
+  width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(hatter.jpg);
+  border: 0;
+  padding: 5px 5px;
+
+}
+td{
+  font-size: x-large;
+}
+img{
+  border: 1px solid;
+}
+.kep1 {
+  float: left;
+}
+.kep2 {
+  float: right;
+}
+.kep3 {
+  border: none;
+}
+a {
+  color: black;
 }
